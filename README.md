@@ -2,7 +2,7 @@
 
 
 
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/)
+Made with :heart: by [Pankaj Mandal](https://www.linkedin.com/in/pankaj-mandal10/)
 
 ## Available Scripts
 
