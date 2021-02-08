@@ -2,7 +2,7 @@
 
 
 
-Made with :heart: by [Pankaj Mandal](https://www.linkedin.com/in/pankaj-mandal10/)
+Made with :heart: by [Pankaj Mandal](https://www.linkedin.com/in/pankaj-mandal10)
 
 ## Available Scripts
 
