@@ -4,6 +4,8 @@
 
 Made with :heart: by [Pankaj Mandal](https://www.linkedin.com/in/pankaj-mandal10)
 
+See [Live Demo](https://pankajmandal10.github.io/covidtraker/)
+
 ## Available Scripts
 
 In the project directory, you can run:
