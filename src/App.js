@@ -94,7 +94,7 @@ const App = () => {
           </FormControl>
           
         </div>
-        <h5>Let's all pray to make our Earth covid-19 free soon, Stay safe and do TheLocate. </h5>
+        {/* <h5>Let's all pray to make our Earth covid-19 free soon, Stay safe and do TheLocate. </h5> */}
         <div className="app__stats">
          <InfoBox
             id="con"
