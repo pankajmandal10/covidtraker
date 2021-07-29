@@ -27,7 +27,7 @@ body {
 }
 .app__left > h5 {
   margin: -10px 20px 20px 5px;
-  color: #1f0606;
+  color: rgb(24, 77, 24);
 }
 .app__header > h1 {
   color: #fc3c3c;
@@ -43,6 +43,7 @@ body {
 
 .app__left {
   flex: 0.9;
+
 }
 
 .app__information > h3 {
